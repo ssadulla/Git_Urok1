@@ -1,0 +1,41 @@
+body{
+	background-image: url(../bg.jpg);
+	color: #CD3033;
+	margin:0;
+	padding:0;
+	background-position: center;
+}
+.divider{
+	min-height: 2px;
+	background-color: #FF682D;
+
+}
+.img{
+	float: right;
+	display: inline-block;
+	margin-bottom: 5px;
+}
+.img2{
+	float: left;
+	margin-right: 6px;
+}
+
+.font{
+	padding-bottom: 15px;
+}
+
+/*-------------------------------------------------------------------------медиа запросы------------------------------------------------------------------------*/
+/*@media screen and (max-width: 768px) {
+	*/
+	@media screen and (max-width: 768px) {
+	.row p {
+		color: #0CCDC7;
+
+	}
+
+	.img
+	.img2{
+		height: 70px;
+	}
+	
+	}

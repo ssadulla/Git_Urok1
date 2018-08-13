@@ -1,0 +1,91 @@
+body{
+	background-image: url(../images.jpg);	
+}
+a:focus{
+	background-color: #45D4FC;
+
+}
+a:hover{
+	color: #44CD8D;
+}
+li:hover{
+	color: #7DCDA5;
+	float: none;
+
+}
+.a {
+	color: #961826;
+}
+.a2 {
+	color: #961826;
+}
+.a3 {
+	color: #961826;
+}
+.a4 {
+	color: #961826;
+}
+h1:hover{
+	color:#32C6C1;
+	float:none;
+}
+.asd:hover{
+	background-color: #1EFC4E;
+
+}.asd2:hover{
+	background-color: #1EFC4E;
+
+}.asd3:hover{
+	background-color: #1EFC4E;
+
+}.asd4:hover{
+	background-color: #1EFC4E;
+
+}.asd5:hover{
+	background-color: #1EFC4E;
+
+}
+.font{
+	color:#C6C317;
+}
+.font_2{
+	color:#87C665;
+}
+.font_3{
+	color:#97AEC6;
+}
+.font_4{
+	color:#55ff55;
+}
+.font_5{
+	color: #C6C4AB;
+}
+.list{
+	 color:#ff3f0a;
+}
+.car {
+	margin-left:1210px ;
+}
+img {
+	background-size: 250px;
+}
+.car3 {
+	margin-left:1210px;
+}
+.car6 {
+	margin-left: 910px;
+}
+/*table{
+	background: radial-gradient(#e66465,#9198e5)
+}
+th,td{font-size: 50px;
+	border: 3px solid #E7B256;
+	font-weight: bold;
+}
+caption{
+	background-color: #FC5E7B;
+	font-size: 30px;
+	border: 3px solid #E7B256;
+}*/
+
+
